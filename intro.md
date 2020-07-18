@@ -3,6 +3,7 @@ I want to test github actions
 
 ## BLAH BLAH BLAH
 
+### Another test
 This is a small sample book built with GitHub Actions. It was built using the
 following action:
 
